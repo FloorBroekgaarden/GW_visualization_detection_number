@@ -15,6 +15,8 @@ ChatGPT_output contains the images that were used for the Aprils Fools entry
 GWcatalogMovie contains all the movies 
 
 
+# See the following website for some of the videos: http://www.broekgaarden.nl/floor/wordpress/elementor-967/ 
+
 ![alt text](https://github.com/FloorBroekgaarden/GW_visualization_detection_number/blob/main/GWcatalogSize.png?raw=true)
 
 
