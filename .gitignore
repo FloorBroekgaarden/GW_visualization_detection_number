@@ -1,0 +1,19 @@
+# Compiled source
+*.egg-info/
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.pyc
+
+# OS generated files
+.DS_Store
+.DS_Store?
+
+
+# Others
+.ipynb_checkpoints/
+__pycache__/
+
