@@ -125,13 +125,13 @@ if Movie_GWcatalogSize==True:
 	# makeMovie_GWcatalogSizeJustConfirmed(fps=1.2, duration=200, name_images='knownDetectionsGWcatalogSize_', image_folder=image_folder)
 	
 	image_folder = '/Users/floorbroekgaarden/Projects/GitHub/GW_visualization_detection_number/GWcatalogMovie/'
-	# makeMovie_GWcatalogSize(fps=45, duration=40, name_images='knownDetectionsGWcatalogSizeMovie_', image_folder=image_folder) # make movie different O1-O3 catalogs 
-	# # makes movie lineaer y-scale and without uncertainties:
-	# makeMovie_GWcatalogSize(fps=20, duration=60, name_images='GWcatalogSize_withUpdatedCE_', number_images=200, image_folder=image_folder)
-	# # makes movie lineaer y-scale and with uncertainties:
-	# makeMovie_GWcatalogSize(fps=20, duration=60, name_images='GWcatalogSize_UncertaintyLin_', number_images=200, image_folder=image_folder)
-	# # make movies log y-scale and with uncertainties:
-	# makeMovie_GWcatalogSize(fps=20, duration=60, name_images='GWcatalogSize_withUncertainty_', number_images=200, image_folder=image_folder)
+	makeMovie_GWcatalogSize(fps=45, duration=40, name_images='knownDetectionsGWcatalogSizeMovie_', image_folder=image_folder) # make movie different O1-O3 catalogs 
+	# makes movie lineaer y-scale and without uncertainties:
+	makeMovie_GWcatalogSize(fps=20, duration=60, name_images='GWcatalogSize_withUpdatedCE_', number_images=200, image_folder=image_folder)
+	# makes movie lineaer y-scale and with uncertainties:
+	makeMovie_GWcatalogSize(fps=20, duration=60, name_images='GWcatalogSize_UncertaintyLin_', number_images=200, image_folder=image_folder)
+	# make movies log y-scale and with uncertainties:
+	makeMovie_GWcatalogSize(fps=20, duration=60, name_images='GWcatalogSize_withUncertainty_', number_images=200, image_folder=image_folder)
 	# make movie for O4
 	makeMovie_GWcatalogSizeO4(image_folder=image_folder)
 
