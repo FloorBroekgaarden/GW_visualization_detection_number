@@ -10,3 +10,7 @@ GWcatalogData contains the csv files of catalogs for O1, O2, O3 data
 ChatGPT_output contains the images that were used for the Aprils Fools entry 
 
 GWcatalogMovie contains all the movies 
+
+
+![alt text](https://github.com/FloorBroekgaarden/GW_visualization_detection_number/blob/main/GWcatalogSize.png?raw=true)
+
