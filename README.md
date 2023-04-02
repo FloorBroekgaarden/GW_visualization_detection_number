@@ -17,3 +17,8 @@ GWcatalogMovie contains all the movies
 
 ![alt text](https://github.com/FloorBroekgaarden/GW_visualization_detection_number/blob/main/GWcatalogSize.png?raw=true)
 
+
+
+
+![alt text](https://github.com/FloorBroekgaarden/GW_visualization_detection_number/blob/main/Table1.png?raw=true)
+
