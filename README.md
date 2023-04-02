@@ -1,3 +1,6 @@
+
+Data and code also available via Zenodo release: [![DOI](https://zenodo.org/badge/622579294.svg)](https://zenodo.org/badge/latestdoi/622579294) 
+
 This directory contains code and files to visualize the existing and expected number of gravitational-wave detections
 
 The main file is the jupyter notebook 
