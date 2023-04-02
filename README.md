@@ -6,5 +6,7 @@ The main file is the jupyter notebook
 Please do not forget to cite all the actual references (also provided in the tables and in the jupyter notebook itself), this is just a visualization tool :)
 
 GWcatalogData contains the csv files of catalogs for O1, O2, O3 data 
+
 ChatGPT_output contains the images that were used for the Aprils Fools entry 
+
 GWcatalogMovie contains all the movies 
