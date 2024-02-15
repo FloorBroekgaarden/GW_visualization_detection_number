@@ -68,7 +68,7 @@ def makeMovie_GWcatalogSizeJustConfirmed(fps=20, duration=60, name_images='none'
 
 
 
-def makeMovie_GWcatalogSizeO4(fps=60, duration=50, image_folder = '/Users/floorbroekgaarden/Projects/GitHub/GW_visualization_detection_number/GWcatalogMovie/'):
+def makeMovie_GWcatalogSizeO4(fps=60, duration=50, image_folder = '/Users/floorbroekgaarden/Projects/GitHub/GW_visualization_detection_number/GWcatalogMovieFigures/'):
 	'''
 	whichRate = 'intrinsic' or 'observed'
 	fps=0.4, frames per second
@@ -124,7 +124,7 @@ if Movie_GWcatalogSize==True:
 	# image_folder='/Users/floorbroekgaarden/Projects/GitHub/GW_visualization_detection_number/GWcatalogFigures/'
 	# makeMovie_GWcatalogSizeJustConfirmed(fps=1.2, duration=200, name_images='knownDetectionsGWcatalogSize_', image_folder=image_folder)
 	
-	image_folder = '/Users/floorbroekgaarden/Projects/GitHub/GW_visualization_detection_number/GWcatalogMovie/'
+	image_folder = '/Users/floorbroekgaarden/Projects/GitHub/GW_visualization_detection_number/GWcatalogMovieFigures/'
 	makeMovie_GWcatalogSize(fps=45, duration=40, name_images='knownDetectionsGWcatalogSizeMovie_', image_folder=image_folder) # make movie different O1-O3 catalogs 
 	# makes movie lineaer y-scale and without uncertainties:
 	makeMovie_GWcatalogSize(fps=20, duration=60, name_images='GWcatalogSize_withUpdatedCE_', number_images=200, image_folder=image_folder)
