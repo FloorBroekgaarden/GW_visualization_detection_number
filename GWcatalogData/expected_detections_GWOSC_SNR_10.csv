@@ -1,0 +1,7 @@
+gw_run,BNS_distance,run_duration,increased_volume_over_O3,n_BBH,n_BBH_up,n_BBH_down,n_BHNS,n_BHNS_up,n_BHNS_down,n_BNS,n_BNS_up,n_BNS_down,n_total,r_BBH,r_BHNS,r_BNS,r_total,note
+unit,Mpc,months,#,per run,per run,per run,per run,per run,per run,per run,per run,per run,per run ,per year,per year,per year,per year,# based on GWOSC GWTC catalog numbers
+O3,120,11,1,55,55,55,1,1,1,2,2,2,,,,,,# based on GWOSC GWTC catalog numbers
+O4,160,18,2.37037037,174.5454545,523.6363636,58.18181818,3.422459893,10.26737968,1.140819964,6.844919786,20.53475936,2.281639929,778.0392157,116.3636364,2.281639929,4.563279857,123.2085561,# based on increased volume and scaling with O3
+O5,282.5,24,13.04702872,1280.981001,3842.943004,426.9936671,25.11727454,75.35182361,8.372424846,50.23454908,150.7036472,16.74484969,5709.993745,640.4905007,12.55863727,25.11727454,678.1664125,# based on increased volume and scaling with O3
+Voyager_Asharp,,,,4500,13500,1500,88.23529412,264.7058824,29.41176471,176.4705882,529.4117647,58.82352941,20058.82353,,,,,"# based on the factor 100 compared to O3, from https://arxiv.org/pdf/2001.11173.pdf  (which is a factor 50 compared to O4)"
+CE_ET,,60,,348050,2700000,155000,147310,2200000,9500,197920,6000000,4550,5757780,69610,29462,39584,138656,"# Numbers from ET+2CE in Table 4 https://arxiv.org/abs/2207.02771, factor 5 for a 5 year timeline. The upper and lower limits are from the highest and lowest numbers in our paper table "
